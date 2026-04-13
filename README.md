@@ -1,6 +1,8 @@
 #  <span style="color:#ff0000;">SlideShow</span> <span style="color:#ff7f00;">em</span> <span style="color:#ffff00;">React</span> 
 
-[![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNsZTd2eTJ5MzJjeHVyb2treGN3MWhubmh5azh1a2FvZW1nMmJwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5McUn7BTMPhc5DRpj/giphy.gif)](https://giphy.com)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFqbXQyYzdqeWoycHpuNDlveHd3djVwY2wwbWlhdWUyOHBzajJxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0NVPQZG9zMiqKiuBTo/giphy.gif" width="100%"/>
+</p>
 
 ---
 
