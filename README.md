@@ -51,3 +51,7 @@ import SlideShow from './SlideShow';
 ##  <span style="color:#607d8b;">Observação</span>
 
 <span style="color:#3f51b5;">Projeto ideal para treinar lógica e React Hooks.</span>
+
+
+
+![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJia3Y0ZW5vdmE4cjZwNjR0b3U5MjJyN2Y1c2QwaXJjd2wyMGxhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
